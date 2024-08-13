@@ -8,7 +8,7 @@ from PIL import Image, ImageOps
 import streamlit as st
 
 # Streamlit Started =====>
-# st.set_page_config(layout='wide')
+st.set_page_config(layout='wide')
 # st.image('maths.jpg')
 
 # Load and display the image with a border
